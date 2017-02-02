@@ -23,3 +23,21 @@ http://www.gv.com/sprint/
 
 ### Resources
 https://subsurface-divelog.org/
+
+## Day 2: Consolidating notes
+
+* We put our notes together to get a better understanding of what we need to do with the project.
+
+## Day 3: Conceptualizing our app
+
+* Invidually, we made our own variations of how the app should look like based on our findings. We then gave each other feedback on what was great or not, then proceeded on to merging our ideas together.
+
+
+## Day 4: Visit to the field
+
+* Met the multiple users of the current app to get better insight on their pain points.
+* Asked them further questions to get a better understanding of their current workflow.
+* Asked the main stakeholder what ideal features he would like to see in the app.
+
+### Resources
+https://subsurface-divelog.org/
