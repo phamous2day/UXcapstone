@@ -39,5 +39,14 @@ https://subsurface-divelog.org/
 * Asked them further questions to get a better understanding of their current workflow.
 * Asked the main stakeholder what ideal features he would like to see in the app.
 
+## Day 4: Sketches
+
+* Made rough sketches, then went to the aquarium to interview tenders on what their pain points with the app and identified needed features.
+
+## Insight/Victories
+1. Removed scroll-directory of divers because people rarely scroll through divers. Instead, we replaced it with a “add diver” button with auto-complete text. 
+2. Consolidated “time in/out” into diver field to establish its relationship to diver ...rather than time being an independent component. 
+3. Error handling with Inventory Checklist: (bold the items that have been initially entered ...upon checkout, the non-applicable items are greyed out. Plus, orange rectangles will act as error handling clues).
+
 ### Resources
 https://subsurface-divelog.org/
