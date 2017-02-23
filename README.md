@@ -47,6 +47,10 @@ http://www.gv.com/sprint/
 * Asked the main stakeholder what ideal features he would like to see in the app.
 
 ## Day 5: Sketches & Prototype
+* Mapped out 2 user flow journeys (OV/Guests and Mammals)
+* Had a victory with how to info. architech the diver fields (nest time in/out under diver name, while the start/end PSI are separate boxes along the same field)
+* Got a clickable prototype working with Invision
+
 
 
 
