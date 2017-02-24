@@ -7,7 +7,7 @@ To create an intuitive and convinient dive-logging tablet application.
 * Allow for management of divers, training, and other information
 * Have a better and more usable design that reduces user resistance
 
-## Initial Process
+# APPROACH/STRATEGY
 Applying Google Venture's "Sprint Methodology" to our 3-week project
 
 ### Day 0: Learning Sprint
@@ -51,13 +51,17 @@ http://www.gv.com/sprint/
 * Had a victory with how to info. architech the diver fields (nest time in/out under diver name, while the start/end PSI are separate boxes along the same field)
 * Got a clickable prototype working with Invision
 
-
+---
+# PROCESS/RESEARCH
 ### Remaining 2 weeks
 After the first week, we went with the more traditional UX process of constant iterations. We would discuss the pain points and new information gathered from the user tests, come up with ways to compartmentalize fields or information, run more user-tests, redo the designs, create the prototypes, and user test again. The very last thing we did was focus on aesthetics and the style-guide — this would make the prototype more "app-like" and provide a sense of polish.
 
 ## Insight/Victories
-1. Removed scroll-directory of divers because people rarely scroll through divers. Instead, we replaced it with a “add diver” button with auto-complete text.
+1. Removed scroll-directory of divers because people rarely scroll through thousands of divers to find a person. Instead, we replaced it with a “add diver” button with auto-complete text.
 2. Consolidated “time in/out” into diver field to establish its relationship to diver ...rather than time being an independent component.
 3. Error handling with Inventory Checklist: (bold the items that have been initially entered ...upon checkout, the non-applicable items are greyed out. Plus, orange rectangles will act as error handling clues).
 
+# RESULT
 
+# WHAT I LEARNED
+* Even with small changes like how to handle a selection element (to make it a dropdown, scroll, toggle button) would take a whole afternoon of discussion. Though it can be frustrating and cause a lot of heat, we learned not to take the matter too personal as it's more of learning to reason the "why's" behind the design that make it so much more worth it. For example, when discussing the Air/Trimix as a scrollable toggle instead of a dropdown, because it was so unique to a certain flow that didn't conform to the rest of our design, we decided to treat it as the abnormality because we wanted users to know it was a special case for a special user flow.
